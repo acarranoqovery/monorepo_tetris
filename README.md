@@ -1,4 +1,4 @@
-12s
+12s2
 Javascript Tetris
 =================
 
